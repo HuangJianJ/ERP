@@ -30,7 +30,6 @@ public class OrderItem extends Book {
             System.out.println("退出系统。");
             System.exit(0);
         }
-        scanner.close();
 
     }
 
